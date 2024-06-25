@@ -1,1 +1,2 @@
 gravitl/netmaker:v0.24.2
+gravitl/netmaker-ui:lasted
