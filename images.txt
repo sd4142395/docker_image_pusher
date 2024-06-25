@@ -1,1 +1,1 @@
-Netmaker:v0.24.2
+gravitl/netmaker:v0.24.2
