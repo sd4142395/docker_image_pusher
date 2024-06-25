@@ -1,2 +1,1 @@
-gravitl/netmaker:v0.24.2
-gravitl/netmaker-ui:lasted
+gravitl/netmaker-ui:v.19.0
