@@ -1,1 +1,3 @@
-gravitl/netmaker-ui:v.19.0
+#gravitl/netmaker-ui:v.19.0
+gravitl/netmaker-ui:latest
+eclipse-mosquitto:2.0.15-openssl
